@@ -12,8 +12,10 @@ const Header = () => {
                             <div className="col-sm-4 offset-md-1 py-4">
                                 <h4>Meni</h4>
                                 <ul className="list-unstyled">
+                                    <li><a href="/" className="text-white">Home</a></li>
+                                    <li><a href="/make" className="text-white">Make</a></li>
                                     <li><a href="#" className="text-white">Login</a></li>
-                                    <li><a href="#" className="text-white">Register</a></li>
+                                    <li><a href="/register" className="text-white">Register</a></li>
                                     <li><a href="#" className="text-white">Logout</a></li>
                                 </ul>
                             </div>
