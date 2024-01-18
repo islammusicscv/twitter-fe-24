@@ -27,7 +27,7 @@ const Register = () => {
     }
 
     if (redirect) {
-        return <Navigate to="/"/>;
+        return <Navigate to="/users"/>;
     }
 
     return (

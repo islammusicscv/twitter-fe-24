@@ -16,6 +16,7 @@ const Header = () => {
                                     <li><a href="/make" className="text-white">Make</a></li>
                                     <li><a href="#" className="text-white">Login</a></li>
                                     <li><a href="/register" className="text-white">Register</a></li>
+                                    <li><a href="/users" className="text-white">Users</a></li>
                                     <li><a href="#" className="text-white">Logout</a></li>
                                 </ul>
                             </div>
